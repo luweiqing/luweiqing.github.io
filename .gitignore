@@ -1,0 +1,14 @@
+working/
+.preview/
+__pycache__/
+*.log
+.DS_Store
+Thumbs.db
+打开主页.cmd
+assets/research/*
+!assets/research/portrait.webp
+!assets/research/fma-framework.png
+!assets/research/satrmot-overview.png
+!assets/research/satrmot-annotation.png
+!assets/research/.gitkeep
+assets/systems/
